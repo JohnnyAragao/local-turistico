@@ -90,11 +90,16 @@ hr{
 }
 footer p{
     width: 1120px;
-    height: 68px;
-    margin: 64px auto;
+    margin: 24px auto;
 }
-#heart{
-    width: 15px;
-    height: 15px;
-    padding: 0px;
+footer{
+    text-align: center;
+    margin-bottom: 48px;
+}
+#rodape{
+    margin-top: 65px;
+}
+#logo-coracao{
+    padding: 4px;
+    vertical-align: middle;
 }
